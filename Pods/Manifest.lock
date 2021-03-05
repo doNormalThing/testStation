@@ -18,7 +18,7 @@ PODS:
   - SVProgressHUD (2.2.5)
 
 DEPENDENCIES:
-  - AFNetworking (~> 4.0)
+  - AFNetworking
   - MJExtension
   - SVProgressHUD
 
@@ -33,6 +33,6 @@ SPEC CHECKSUMS:
   MJExtension: 88e0900751b6cac8de1cf724ca9838a0b28d5acb
   SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
 
-PODFILE CHECKSUM: aca6d04ebd4f15a8e7e184d059dab24c1194c5f2
+PODFILE CHECKSUM: 1bb6ca60d392a13f80e2434aad269cf61a5863a6
 
 COCOAPODS: 1.9.1

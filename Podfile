@@ -5,7 +5,7 @@ platform :ios, '9.0'
 target ‘TestStation’ do
 
 use_frameworks!
-pod 'AFNetworking','~> 4.0'
+pod 'AFNetworking'
 pod 'MJExtension'
 pod 'SVProgressHUD'
 end
